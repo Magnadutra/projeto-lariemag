@@ -1,0 +1,31 @@
+ * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#certo {
+    border-radius: 10px;
+    height: 300px;
+    width: 50%;
+    background-color: #2aa53f;
+    display: inline-block;
+    text-align: center;
+    font-size: 19px;
+}
+#errado {
+    border-radius: 10px;
+    height: 300px;
+    width: 50%;
+    float: right;
+    background-color: #af1414;
+    text-align: center;
+}
+ul {
+    margin-top: 30px;
+    font-size: 19px;
+}
